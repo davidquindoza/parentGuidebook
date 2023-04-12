@@ -76,6 +76,10 @@ To complete the transaction:
 2.  Enter the OTP sent to you. 
 3.  Wait for confirmation page back at LandBank Online.
 
-This completes the guide of paying Tanza Water District Bill, you should see a similar Window like below by the end of this guide:
+This completes the guide of paying Tanza Water District Bill, you should see a similar Window like below by the end of this guide. 
 
 ![alt text](https://i.ibb.co/5RXQH6f/Water-Bill-Copy.png)
+
+Tanza water district requires the screenshot/picture of the confirmation, for that step, just send the picture(similar to the above) to me and I will forward it to them via Messenger. 
+
+---
