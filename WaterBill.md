@@ -10,7 +10,9 @@ layout: home
 To start paying our Tanza Water district bill online, we need to go to Landbank Online Bizportal.
 
 
-[Click on this link to visit it directly.](https://www.lbp-eservices.com/egps/portal/index.jsp)
+[Click on this link to visit it directly.](https://www.lbp-eservices.com/egps/portal/index.jsp) 
+
+You can also right click on the link and select **Open Link in New Tab** so that you can just switch tabs between this guide and land bank online.
 
 ---
 
