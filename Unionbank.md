@@ -9,6 +9,8 @@ layout: home
 
 To visit unionbank online you can [click on this link to visit it directly.](https://online.unionbankph.com/online-banking/login#!/login)
 
+You can also right click on the link and select **Open Link in New Tab** so that you can just switch tabs between this guide and Unionbank Online.
+
 Login your credentials and type in the OTP sent to your device. 
 
 ![alt text](https://i.ibb.co/c87n2Ry/UB1.png)
