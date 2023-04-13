@@ -33,7 +33,7 @@ Upon clicking, the site will ask which payment channel you would like to use for
 
 ### Step 3. Select Bank and Fill up Details
 
-After clicking instapay, click on the Bank list to choose which bank to send money.
+After clicking instapay, click on the **Bank list** to choose which bank to send money.
 
 Some available banks for our purposes are:
 
@@ -44,7 +44,7 @@ Once selected, fill up the information required.
 
 ![alt text](https://i.ibb.co/gFVV4fz/UBC.png)
 
-Click Next/Transfer to proceed with your transaction, this will prompt you again to enter our OTP.
+Click **Next/Transfer** to proceed with your transaction, this will prompt you again to enter our OTP.
 
 Once done, you should see the confirmation page from UnionBank.
 
