@@ -11,7 +11,7 @@ To start ordering food from the foodpanda app, set your address first to your lo
 
 **(I have already set the address on your mobile phones so you can skip this step).**  However, you can continue reading to learn more about this step.
 
-![alt text](https://i.ibb.co/DGWJDqZ/F63817-DD-719-A-428-D-B589-C491-FAA67835.jpg)
+![alt text](https://i.ibb.co/6Dbz0Xr/pandaedit-A.png)
 
 **Tap the upper left screen showing the default address**.
 
@@ -23,23 +23,23 @@ Now click on **add new address** and set your location.
 
  ![alt text](https://i.ibb.co/wYYWqBW/pandaedit2.png)
 
- ---
+---
 
- ### Step 2. Choose your Restaurant
+### Step 2. Choose your Restaurant
 
- Foodpanda offers a lot of restaurants to choose for delivery, in this demo we will use Kenny Rogers.
+Foodpanda offers a lot of restaurants to choose for delivery, in this demo we will use Kenny Rogers.
 
- Tap on  **Search for shops and resturanats** at the search bar. You can choose other restaurants by typing their name in the search bar. 
+Tap on  **Search for shops and resturanats** at the search bar. You can choose other restaurants by typing their name in the search bar. 
 
- ![alt text](https://i.ibb.co/2F9fd1q/3138-AC74-BA4-E-4-CE5-BB75-490-A0-E0-BBF7-A.jpg)
+![alt text](https://i.ibb.co/rMXMG90/pandaedit-B.png)
 
- Once you type "kenny rogers" a list will pop up, tap on any of the list or tap **search**. 
+Once you type "kenny rogers" a list will pop up, tap on any of the list or tap **search**. 
 
-![alt text width = 283 height = 582](https://i.ibb.co/rv6FR59/AC5888-BF-6-C12-4-DF3-8-BD6-903-C69-C46632.png)
+![alt text width = 283 height = 582](https://i.ibb.co/kQvzGxK/pandaedit-C.png)
 
- This will provide you a list of restaurants and related ones that you can order from. **Tap on the first result**, which is the Kenny Rogers Branch from SM Tanza.
+This will provide you a list of restaurants and related ones that you can order from. **Tap on the first result**, which is the Kenny Rogers Branch from SM Tanza.
 
- ![alt text](https://i.ibb.co/47m8z1d/0-CCF49-C3-3435-4-BDE-ABE6-8-FFBAAD48-F43.png) 
+ ![alt text](https://i.ibb.co/N96Qbfx/pandaedit-D.png) 
 
  ---
 
@@ -47,7 +47,7 @@ Now click on **add new address** and set your location.
 
 After tapping on the Kenny Rogers SM Tanza restaurant, this will bring a list of all their available food. This is already categorized for easier searching instead of scrolling the whole way down.
 
-![alt text](https://i.ibb.co/xSGdJFy/E81-E6800-3-E71-4709-94-ED-EA8-EE27752-D6.png)
+![alt text](https://i.ibb.co/8MDG8Yq/pandaedit-E.png)
 
 In this demo we will order the Classic Healthy Plate. 
 
@@ -57,7 +57,7 @@ To put a meal in our cart **tap on selected meal** (Classic Healthy Plate).
 
 Then tap **add to cart**, you may opt for additional options for your meal as well.
 
-![alt text](https://i.ibb.co/VTmP1PS/77-E55870-FA61-4-AA2-8879-A10-D9-B9-A826-D.png)
+![alt text](https://i.ibb.co/Fq55QHf/pandaedit-F.png)
 
 ---
 
@@ -67,13 +67,13 @@ To start checking out our order, **Tap on View Cart**.
 
 Here you can review your orders before checking out. Once they are to your needs **tap on Review payment and address**.
 
-![alt text](https://i.ibb.co/pW7gMtN/42143764-3-C43-4-C1-B-8946-03-DD1-F9401-DF.png)
+![alt text](https://i.ibb.co/jHJ9vDf/pandaedit-G.png)
 
 In this section, review if your address and payment method are correct. You can edit them before checking out your order.
 
-Once, thie information are correct, **Tap Place Order**.
+Once, this information are correct, **Tap Place Order**.
 
-![alt text](https://i.ibb.co/gZm0m49/pandaedit3.png)
+![alt text](https://i.ibb.co/dmTV4Wn/pandaedit-H.png)
 
 This will bring a window on the status of your order, usually in a sequence of:
 
