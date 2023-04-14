@@ -71,7 +71,7 @@ Here you can review your orders before checking out. Once they are to your needs
 
 In this section, review if your address and payment method are correct. You can edit them before checking out your order.
 
-Once, this information are correct, **Tap Place Order**.
+Once the information are correct, **Tap Place Order**.
 
 ![alt text](https://i.ibb.co/dmTV4Wn/pandaedit-H.png)
 
