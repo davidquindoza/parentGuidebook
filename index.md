@@ -22,4 +22,4 @@ Since I may not be able at all times, this guide provides you a step by step tut
 
 On the left side of the website is the **Navigation menu**, just click which tutorial you would like to see. You can also use the top right **search icon**. 
 
-
+I also provided the list of necessary information and account list on the Family PC. It is below the icon for this guide in your desktop.

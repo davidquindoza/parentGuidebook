@@ -57,11 +57,11 @@ Once you have filled your biller information, **tap on next**.
 
 BPI Mobile app will make you review your information if there needs to be changes.
 
-If there are not changes, **confirm the details**.
+If there are no changes, **tap and confirm the details**.
 
 You will now be **asked for your biometrics** for security measure.
 
-After successfully authenticating your biometrics, the app should say it was successful. 
+After successfully authenticating your biometrics, the app should say your transsaction was successful. 
 
 ---
 
