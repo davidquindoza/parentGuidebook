@@ -7,7 +7,7 @@ layout: home
 ---
 ### Step 1. Open GrabFood App
 
-Open the Grabfood on your mobile device, then click on **food**.
+Open the Grabfood app on your mobile device, then click on **food**.
 
 No need to worry about your address since I have already set it on your phone.
 
