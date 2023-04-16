@@ -56,6 +56,6 @@ Then clicking **save**.
 
 You have now saved your scanned document!
 
-You can use this later for attaching pictures/documents in the email. *Always remember what you named your file**.
+You can use this later for attaching pictures/documents in the email. **Always remember what you named your file**.
 
 ---
