@@ -3,13 +3,11 @@ title: Home
 layout: home
 ---
 
-# Welcome to Parent Guidebook made by David Quindoza!
+# Welcome to App Guidebook made by David Quindoza!
 
  ---
 
-I made this web guide for you in order to help you in doing things related to computers and mobile phones that normally I would be tasked around the house.
-
-Since I may not be able at all times, this guide provides you a step by step tutorial on most of the things I do for you:
+I created this web guide to help with tasks related to computers and mobile phones. It's designed to make things easier and give you the confidence to manage these tech-related tasks on your own.
 
 
 - Pay Bills Online
