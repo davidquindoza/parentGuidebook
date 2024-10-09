@@ -1,4 +1,4 @@
-# Parental Guidebook based on JusttheDocs Theme
+# Simple App Guide based on JusttheDocs Theme
 
 --- 
 
